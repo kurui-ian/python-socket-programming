@@ -26,7 +26,7 @@ Start the server:
 Then, in another terminal, run the client:
 
 ```bash
-python3 client.py
+python3 s.py
 ```
 
 The client connects to:
